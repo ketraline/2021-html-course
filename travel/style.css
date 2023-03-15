@@ -1,0 +1,16 @@
+body {
+        background-color:rgb(185, 203, 212);
+        }
+        .text {
+           color:rgb(75, 90, 115);
+           font-family:"Lucida Console";
+        }
+        #text2 {
+           color:rgb(41, 45, 51);
+           font-family:"Lucida Console";
+        }
+        p {
+          color:rgb(41, 45, 51);
+          font-family:"Lucida Console";
+        }
+}

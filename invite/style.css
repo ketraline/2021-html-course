@@ -1,0 +1,27 @@
+#div1 {
+                border: 4px dashed rgb(114, 207, 191);
+                margin: 5px;
+                padding: 10px;
+                float:left;
+                width:45%;
+            }
+            p, h1, h2, h3, li {
+                font-family: monospace;
+            }
+            img{
+                float:left;
+                border: 4px groove rgb(55, 145, 153);
+            }
+            body {
+                background-color: rgb(194, 255, 246);
+            }
+            h1, h2, h3 {
+                color:rgb(0, 151, 181);
+            }
+            p, li{
+                color: rgb(55, 84, 78);
+            }
+            #div2 {
+                width: 200px;
+                margin: auto;
+            }

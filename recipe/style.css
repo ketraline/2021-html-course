@@ -1,0 +1,21 @@
+body {
+            background-color:rgb(215, 225, 245);
+        }
+        h1, h2 {
+            text-align:center;
+            color:rgb(74, 117, 145);
+        }
+        p {
+            background-color:rgb(178, 203, 214);
+        }
+        table {
+            border-collapse: collapse;
+        }
+        table, th {
+                border: 2px solid rgb(139, 156, 196);
+        }
+        table,th,td {
+                height: 30px;
+                width: 45%;
+                text-align: center;
+        }
